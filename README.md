@@ -1,19 +1,7 @@
-# Controle Financeiro
+Imagem do app: 
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![app_financas_pessoais](https://github.com/LeiliFerreira/Finan-as_Pessoais/assets/72282625/1004af8e-6337-49f6-9749-5a2b9ac365d1)
 
-## Getting Started
+App em funcionamento: 
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+https://github.com/LeiliFerreira/Finan-as_Pessoais/assets/72282625/39b3892a-07cf-430f-93a7-73b0b6c069f4
